@@ -1,5 +1,7 @@
 # CICD using GitHub actions
 
+# this is to check git push command
+
 name: CI/CD
 
 # Exclude the workflow to run on changes to the helm chart
